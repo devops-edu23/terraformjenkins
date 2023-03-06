@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "red-league-378004",
+  "private_key_id": "c55999c58c97c7ea607092ed37c30066bbb439e0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAc+Pa0Lx+nvj0\nCYBdiUZyIEo+6wp/t6lWOzOFRdmA94ihAGc5x0gNkLKZpop75lXXYhpbXElkPA5D\nNXarRKzvMHjLNe8xggv9bCWNLMuFg+As02OVn2Rc7GPb+PwNUeAxZN/NgTRb0eTV\n64T3YBq4BUY8EKN4Q+eEjmzqEU7pSKv8MHwZXp+CMnAXb6M0onhrL+CV98Fkfz9k\nJZjMKZznUVVy9olhzlF9xA0XqVdX+Svd/umVSbkxgo5/LREnHVj4WciI9fSCGSza\nZcRdQZa2iBwkEkCcQBuOXGeuTCJpdp1MmmZtgH6ADr8LJcPSF3x+wMNCUaf6R4Z8\n7q390yF3AgMBAAECggEAC0F77RtSOvGfS96WZGIX/arHzOBAT/H09Hcn7z6Dlxhj\nJE96uhVesHRrDbOA2/g/wwYY1okSPcuJZgLleuTcXGzwU6pG4BVkECFYHOamzJtG\n7Dg81c5pt0mYGZB5ZWoJe7oToNhSsKAZCy3oK/Ox/FtKnU630Nvf2Y/e7N2wSNJ+\nRirhaUTK54/pbOgDF7l+cL1XPOTsmX/KF+e/zYHdjMdk+OOrcFAh9h1e2jIW8Ten\n+dOTA94eeZVxaRNXeYPo5JSFTRL5yCYq1Inc7yixZnbtTgumbbse0susb/y1nrlG\na9GTFBvjQOwn3hbzvtV7rhblwMCGx2Vq8C9zvI6TOQKBgQDo3Vfxw8uNArKdUPlh\n6Bwn+mr+Z3pKF2khFFNX9krKNgTh9QGCpDwVT8qi9kYQwtGBSDFhSbl4Kcj0Ac/h\n2T2HyQpHYwAMFa8s/hZkxeyzKxiJya3CIW82isQVG7Y9u9rwujbXqMq1nqyGoIoE\nvK8B7vn52F6JenjChXi4io8PAwKBgQDTkraj1mVPhNrKPQyHccDga7Uwk1RsyXy7\njVgMykV5FhYJAyg7K6rLfbKN5CWN00uE0UZL45ChwniNTDlqjhlcih185qBtqHXS\nh+j0hyB9R/Up9vKWkJ5/xLbDM1Xekkx0EASogMndIUXZbUq+OstbqsmJHrouEOz/\nkYP9VKfvfQKBgQDPPh7ExfJkPuBj7erkXcShN9b9L27AffFMRWCfSkzphgX2ayy6\n7hujA+5d9jwJMrluC6gW45wy+00jDHHMmKCQNjX1roAeQTY0HrYjXZr5IgOmrVz9\nBvCJZBp6hr08V/HUiIXCjTBLTzpQXpQ2/w3p9Jt45j3MsLjEtjDoXDhRrQKBgA4V\nx1jy7f20P4iVNd9SgF+wa/iW5ljztP0bdNAtKyDbio4BCs2do5o2fQubM7DUb0Oh\nVwe4V6mdM79cYrooSaHyg/ILvIRwYZ+pcqXM1Snh/31StmW1rQeehfhK052kqbhU\nVKsPH+E71NWbxA0UBvPMU+xwAj8M22pMOrhDyYZVAoGAbxr1kmkuspNJcN/6O4qt\n8TlVtmG/vWvSO8bgFAY61pm9t+zKvVHu5n7F/wE/v2QC1E2amBy9mh1BvVE7WE7s\nP9+tSDCPhAWiC2n36wFRSLKe5dfg2rWqA1QeY6E8pCO/nytrRi/NxlH49BAdSkmv\n55HvI5arKc7GH/fgW5josco=\n-----END PRIVATE KEY-----\n",
+  "client_email": "devops123@red-league-378004.iam.gserviceaccount.com",
+  "client_id": "102584161407618455056",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/devops123%40red-league-378004.iam.gserviceaccount.com"
+}
